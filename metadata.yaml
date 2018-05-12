@@ -1,0 +1,39 @@
+_repo: Journal-of-Landsborough-s-Expedition-from-CarpentariaIn-search-of-Burke-and-Wills_16243
+_version: 0.1.0
+alternative_title: Journal of Landsborough's expedition from Carpentaria, in search
+  of Burke and Wills. With a map showing his route.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Landsborough, William
+    birthdate: 1825
+    deathdate: 1886
+    gutenberg_agent_id: '6563'
+    url: http://www.gutenberg.org/2009/agents/6563
+    wikipedia: http://en.wikipedia.org/wiki/William_Landsborough
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16243'
+language: en
+production_note: EBook produced by Sue Asscher
+publication_note: "MELBOURNE:\r\nF.F. BAILLIERE, PUBLISHER, 85 COLLINS STREET EAST.\r\
+  \nLONDON: H. BAILLIERE. PARIS: J.B. BAILLIERE. NEW YORK AND MADRID.\r\nAND ALL BOOKSELLERS.\r\
+  \n1862."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Burke and Wills Expedition, (1860-1861)'
+- !lcsh 'Explorers -- Australia'
+- !lcsh 'Landsborough Expedition, (1861-1862)'
+- !lcc 'DU'
+title: 'Journal of Landsborough''s Expedition from Carpentaria
+
+  In search of Burke and Wills'
+url: http://www.gutenberg.org/ebooks/16243
